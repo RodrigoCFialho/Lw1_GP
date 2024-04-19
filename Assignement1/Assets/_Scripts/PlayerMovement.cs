@@ -6,36 +6,22 @@ using UnityEngine.InputSystem;
 
 public class PlayerMovement : MonoBehaviour
 {
-    private CustomInputs customInput;
-
     private Rigidbody2D myRigidBody;
+
+    [SerializeField]
+    private float speed = 3f;
 
     private void Awake()
     {
         myRigidBody = GetComponent<Rigidbody2D>();
     }
 
-    private void Start()
+    public void EnableMovementEvent(Vector2 moveInput)
     {
-        customInput = CustomInputManager.Instance.customInputsBindings;
-
-        customInput.Player.Movement.performed += InputMovementPerformed;
-        customInput.Player.Movement.canceled += InputMovementCancelled;
+        if (moveInput.x != 0 && moveInput.y == 0 || moveInput.y != 0 && moveInput.x == 0 || moveInput == Vector2.zero)
+        {
+            myRigidBody.velocity = moveInput * speed;
+        }
     }
 
-    private void OnDisable()
-    {
-        customInput.Player.Movement.performed -= InputMovementPerformed;
-        customInput.Player.Movement.canceled -= InputMovementCancelled;
-    }
-
-    private void InputMovementPerformed(InputAction.CallbackContext context)
-    {
-        //tenho fome
-    }
-
-    private void InputMovementCancelled(InputAction.CallbackContext context)
-    {
-        
-    }
 }
