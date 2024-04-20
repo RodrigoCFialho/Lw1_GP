@@ -1,0 +1,31 @@
+Aula 12 de abril
+-criei os prefabs dos ground tile e dos blocks
+-fiz o level layout
+-criei o input actions
+
+Aula 19 de abril
+-fizemos o player movement e interact;
+  .script customInputManager com o singleton dos inputs;
+  .script inputSystem com os "+=""-=" e os invoke para os unityEvent;
+  .script playerMovement para fazer o player andar quando o evento manda;
+      *player estava a andar na diagonal e adicionamos a linha 21;
+      *player ao colidir com cantos dos tiles andava na diagonal.corrigimos com a mudança do capsuleColider para boxColider;
+      **player ainda as vezes prede-se nos blocos;
+  .script playerInteract para interagir com os blocos
+                        ****ainda falta as animaçoes***
+
+-fizemos os ground tiles ficarem verdes;
+  .gameObject com tag Player onTriggerExit faz o spriteRenderer mudar de sprite do "unvisited" para "visited".
+             ****ainda falta voltarem a unvisited com o grey block****
+
+-fizemos a interface IInteractable para os blocks;
+
+-fizemos o blue block;
+ .onTriggerEnter e Exit para mudar sprites e para o player poder interagir;
+ .quando interagido, ativa o animator que esta desativado, fazendo o bloco desaparecer e, com o animation event, o bloco destroi-se.
+
+-paramos a meio do red block
+  .no sei mais o que fizemos aqui. bloco mexia mas nao podia. freeze contrains blablabla :)
+
+*** falta ainda: terminar red block; grey block;
+                 "The player may interact with multiple blocks at the same                  time" list part; game manager; ui; report. ****
