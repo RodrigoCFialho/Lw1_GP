@@ -19,6 +19,4 @@ public class PlayerInteract : MonoBehaviour
         interactable = interactableObject;
 
     }
-
-
 }

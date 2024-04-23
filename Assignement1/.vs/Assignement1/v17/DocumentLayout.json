@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\maria\\ESTG\\unity\\Assignement1\\",
+  "WorkspaceRootPath": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|d:\\maria\\estg\\unity\\assignement1\\assets\\_scripts\\redblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\redblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|d:\\github\\unity\\lw1_gp\\assignement1\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|D:\\maria\\ESTG\\unity\\Assignement1\\assets\\_scripts\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|d:\\github\\unity\\lw1_gp\\assignement1\\assets\\scripts\\greyblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\greyblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|D:\\maria\\ESTG\\unity\\Assignement1\\assets\\_scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\Unity\\Lw1_GP\\Assignement1\\assets\\_scripts\\greyblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\_scripts\\greyblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|D:\\maria\\ESTG\\unity\\Assignement1\\assets\\_scripts\\blueblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\blueblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\github\\unity\\lw1_gp\\assignement1\\assets\\_scripts\\redblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\_scripts\\redblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|d:\\maria\\estg\\unity\\assignement1\\assets\\_scripts\\greyblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\greyblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\Unity\\Lw1_GP\\Assignement1\\assets\\_scripts\\blueblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\_scripts\\blueblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|d:\\maria\\estg\\unity\\assignement1\\assets\\_scripts\\tilechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\tilechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\Unity\\Lw1_GP\\Assignement1\\assets\\_scripts\\tilechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\_scripts\\tilechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|D:\\maria\\ESTG\\unity\\Assignement1\\assets\\_scripts\\inputsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\inputsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\Unity\\Lw1_GP\\Assignement1\\assets\\_scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\_scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +38,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GreyBlock.cs",
-              "DocumentMoniker": "D:\\maria\\ESTG\\unity\\Assignement1\\Assets\\_Scripts\\GreyBlock.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scripts\\GreyBlock.cs",
-              "ToolTip": "D:\\maria\\ESTG\\unity\\Assignement1\\Assets\\_Scripts\\GreyBlock.cs",
-              "RelativeToolTip": "Assets\\_Scripts\\GreyBlock.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA6wCUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T12:22:31.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RedBlock.cs",
-              "DocumentMoniker": "D:\\maria\\ESTG\\unity\\Assignement1\\Assets\\_Scripts\\RedBlock.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scripts\\RedBlock.cs",
-              "ToolTip": "D:\\maria\\ESTG\\unity\\Assignement1\\Assets\\_Scripts\\RedBlock.cs",
-              "RelativeToolTip": "Assets\\_Scripts\\RedBlock.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADoAAABIAAAA",
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T12:22:26.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BlueBlock.cs",
-              "DocumentMoniker": "D:\\maria\\ESTG\\unity\\Assignement1\\Assets\\_Scripts\\BlueBlock.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scripts\\BlueBlock.cs",
-              "ToolTip": "D:\\maria\\ESTG\\unity\\Assignement1\\Assets\\_Scripts\\BlueBlock.cs",
-              "RelativeToolTip": "Assets\\_Scripts\\BlueBlock.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowB0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T12:06:45.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TileChange.cs",
-              "DocumentMoniker": "D:\\maria\\ESTG\\unity\\Assignement1\\Assets\\_Scripts\\TileChange.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scripts\\TileChange.cs",
-              "ToolTip": "D:\\maria\\ESTG\\unity\\Assignement1\\Assets\\_Scripts\\TileChange.cs",
-              "RelativeToolTip": "Assets\\_Scripts\\TileChange.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T12:06:25.77Z",
+              "WhenOpened": "2024-04-23T20:43:59.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PlayerInteract.cs",
-              "DocumentMoniker": "D:\\maria\\ESTG\\unity\\Assignement1\\Assets\\_Scripts\\PlayerInteract.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scripts\\PlayerInteract.cs",
-              "ToolTip": "D:\\maria\\ESTG\\unity\\Assignement1\\Assets\\_Scripts\\PlayerInteract.cs",
-              "RelativeToolTip": "Assets\\_Scripts\\PlayerInteract.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Title": "GreyBlock.cs",
+              "DocumentMoniker": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\Scripts\\GreyBlock.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GreyBlock.cs",
+              "ToolTip": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\Scripts\\GreyBlock.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GreyBlock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T10:18:09.4Z",
+              "WhenOpened": "2024-04-23T19:56:01.969Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "InputSystem.cs",
-              "DocumentMoniker": "D:\\maria\\ESTG\\unity\\Assignement1\\Assets\\_Scripts\\InputSystem.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scripts\\InputSystem.cs",
-              "ToolTip": "D:\\maria\\ESTG\\unity\\Assignement1\\Assets\\_Scripts\\InputSystem.cs",
-              "RelativeToolTip": "Assets\\_Scripts\\InputSystem.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwCsAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T09:24:55.867Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "D:\\maria\\ESTG\\unity\\Assignement1\\Assets\\_Scripts\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scripts\\PlayerMovement.cs",
-              "ToolTip": "D:\\maria\\ESTG\\unity\\Assignement1\\Assets\\_Scripts\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\_Scripts\\PlayerMovement.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Title": "GreyBlock.cs",
+              "DocumentMoniker": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\_Scripts\\GreyBlock.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\GreyBlock.cs",
+              "ToolTip": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\_Scripts\\GreyBlock.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\GreyBlock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T12:42:23.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T12:22:31.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RedBlock.cs",
+              "DocumentMoniker": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\_Scripts\\RedBlock.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\RedBlock.cs",
+              "ToolTip": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\_Scripts\\RedBlock.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\RedBlock.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:22:26.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlueBlock.cs",
+              "DocumentMoniker": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\_Scripts\\BlueBlock.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\BlueBlock.cs",
+              "ToolTip": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\_Scripts\\BlueBlock.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\BlueBlock.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:06:45.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TileChange.cs",
+              "DocumentMoniker": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\_Scripts\\TileChange.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\TileChange.cs",
+              "ToolTip": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\_Scripts\\TileChange.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\TileChange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:06:25.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\_Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\_Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:42:23.264Z"
             }
           ]
         }

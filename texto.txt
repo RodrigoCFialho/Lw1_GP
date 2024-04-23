@@ -10,7 +10,7 @@ Aula 19 de abril
   .script playerMovement para fazer o player andar quando o evento manda;
       *player estava a andar na diagonal e adicionamos a linha 21;
       *player ao colidir com cantos dos tiles andava na diagonal.corrigimos com a mudança do capsuleColider para boxColider;
-      **player ainda as vezes prede-se nos blocos;
+      **player ainda as vezes prende-se nos blocos;
   .script playerInteract para interagir com os blocos
                         ****ainda falta as animaçoes***
 
@@ -28,4 +28,4 @@ Aula 19 de abril
   .no sei mais o que fizemos aqui. bloco mexia mas nao podia. freeze contrains blablabla :)
 
 *** falta ainda: terminar red block; grey block;
-                 "The player may interact with multiple blocks at the same                  time" list part; game manager; ui; report. ****
+                 "The player may interact with multiple blocks at the same time" list part; game manager; ui; report. ****

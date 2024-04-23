@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 4751208140739346117}
   m_Layer: 0
   m_Name: RedBlock
-  m_TagString: Untagged
+  m_TagString: Block
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -104,7 +104,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 0
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: d9b6913b1fee0824cb4ffe32eca35a84, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -194,7 +194,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 1
+  m_Radius: 0.8
 --- !u!114 &4751208140739346117
 MonoBehaviour:
   m_ObjectHideFlags: 0

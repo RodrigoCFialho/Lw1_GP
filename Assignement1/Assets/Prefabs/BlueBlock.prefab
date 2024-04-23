@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 7929365963915532348}
   m_Layer: 0
   m_Name: BlueBlock
-  m_TagString: Untagged
+  m_TagString: Block
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -167,7 +167,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 1
+  m_Radius: 0.8
 --- !u!114 &4324793690830436495
 MonoBehaviour:
   m_ObjectHideFlags: 0
