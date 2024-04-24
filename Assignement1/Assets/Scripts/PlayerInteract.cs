@@ -1,22 +1,32 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 public class PlayerInteract : MonoBehaviour
 {
-    private IInteractable interactable;
+    private List<IInteractable> interactableList = new List<IInteractable>();
 
     public void InteractEvent()
     {
-        if (interactable != null)
+        if (interactableList != null)
         {
-            interactable.Interact();
+            for (int i = 0; i < interactableList.Count; ++i)
+            {
+                interactableList[i].Interact();
+            }
         }
     }
 
     public void SetInteractible(IInteractable interactableObject)
     {
-        interactable = interactableObject;
+        interactableList.Add(interactableObject);
+        print(interactableList.Count);
+    }
 
+    public void RemoveInteractible(IInteractable interactableObject)
+    {
+        interactableList.Remove(interactableObject);
+        print(interactableList.Count);
     }
 }

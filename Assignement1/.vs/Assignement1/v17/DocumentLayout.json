@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|d:\\github\\unity\\lw1_gp\\assignement1\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|d:\\github\\unity\\lw1_gp\\assignement1\\assets\\scripts\\groundtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|d:\\github\\unity\\lw1_gp\\assignement1\\assets\\scripts\\greyblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|D:\\Github\\Unity\\Lw1_GP\\Assignement1\\assets\\scripts\\greyblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\greyblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\Unity\\Lw1_GP\\Assignement1\\assets\\_scripts\\greyblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\_scripts\\greyblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|D:\\Github\\Unity\\Lw1_GP\\Assignement1\\assets\\scripts\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\github\\unity\\lw1_gp\\assignement1\\assets\\_scripts\\redblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\_scripts\\redblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|D:\\Github\\Unity\\Lw1_GP\\Assignement1\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\Unity\\Lw1_GP\\Assignement1\\assets\\_scripts\\blueblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\_scripts\\blueblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|D:\\Github\\Unity\\Lw1_GP\\Assignement1\\assets\\scripts\\blueblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blueblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\Unity\\Lw1_GP\\Assignement1\\assets\\_scripts\\tilechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\_scripts\\tilechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|D:\\Github\\Unity\\Lw1_GP\\Assignement1\\assets\\scripts\\redblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\redblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\Unity\\Lw1_GP\\Assignement1\\assets\\_scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\_scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|D:\\Github\\Unity\\Lw1_GP\\Assignement1\\assets\\scripts\\inputsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|D:\\Github\\Unity\\Lw1_GP\\Assignement1\\assets\\scripts\\custominputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\custominputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|D:\\Github\\Unity\\Lw1_GP\\Assignement1\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863F59FC-056A-436C-BD91-0B40114DD504}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,14 +55,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Title": "GroundTile.cs",
+              "DocumentMoniker": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\Scripts\\GroundTile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GroundTile.cs",
+              "ToolTip": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\Scripts\\GroundTile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GroundTile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T20:43:59.073Z",
+              "WhenOpened": "2024-04-24T13:53:09.942Z",
               "EditorCaption": ""
             },
             {
@@ -61,70 +73,108 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\GreyBlock.cs",
               "ToolTip": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\Scripts\\GreyBlock.cs",
               "RelativeToolTip": "Assets\\Scripts\\GreyBlock.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwCEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T19:56:01.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GreyBlock.cs",
-              "DocumentMoniker": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\_Scripts\\GreyBlock.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scripts\\GreyBlock.cs",
-              "ToolTip": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\_Scripts\\GreyBlock.cs",
-              "RelativeToolTip": "Assets\\_Scripts\\GreyBlock.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T12:22:31.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "RedBlock.cs",
-              "DocumentMoniker": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\_Scripts\\RedBlock.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scripts\\RedBlock.cs",
-              "ToolTip": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\_Scripts\\RedBlock.cs",
-              "RelativeToolTip": "Assets\\_Scripts\\RedBlock.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowFIAAAAAAAAA",
+              "DocumentMoniker": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\Scripts\\RedBlock.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RedBlock.cs",
+              "ToolTip": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\Scripts\\RedBlock.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RedBlock.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAUwD8AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T12:22:26.324Z"
+              "WhenOpened": "2024-04-24T11:10:54.143Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "BlueBlock.cs",
-              "DocumentMoniker": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\_Scripts\\BlueBlock.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scripts\\BlueBlock.cs",
-              "ToolTip": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\_Scripts\\BlueBlock.cs",
-              "RelativeToolTip": "Assets\\_Scripts\\BlueBlock.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowB0AAAAJAAAA",
+              "DocumentMoniker": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\Scripts\\BlueBlock.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BlueBlock.cs",
+              "ToolTip": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\Scripts\\BlueBlock.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BlueBlock.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T12:06:45.062Z"
+              "WhenOpened": "2024-04-24T11:07:25.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TileChange.cs",
-              "DocumentMoniker": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\_Scripts\\TileChange.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scripts\\TileChange.cs",
-              "ToolTip": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\_Scripts\\TileChange.cs",
-              "RelativeToolTip": "Assets\\_Scripts\\TileChange.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "DocumentIndex": 2,
+              "Title": "PlayerInteract.cs",
+              "DocumentMoniker": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\Scripts\\PlayerInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInteract.cs",
+              "ToolTip": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\Scripts\\PlayerInteract.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInteract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T12:06:25.77Z"
+              "WhenOpened": "2024-04-24T10:47:41.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:50:20.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseInput.cs",
+              "DocumentMoniker": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "ToolTip": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAH0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:22:07.48Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\_Scripts\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scripts\\PlayerMovement.cs",
-              "ToolTip": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\_Scripts\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\_Scripts\\PlayerMovement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Title": "InputSystem.cs",
+              "DocumentMoniker": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\Scripts\\InputSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InputSystem.cs",
+              "ToolTip": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\Scripts\\InputSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InputSystem.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCEAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T12:42:23.264Z"
+              "WhenOpened": "2024-04-24T08:51:18.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomInputManager.cs",
+              "DocumentMoniker": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\Scripts\\CustomInputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CustomInputManager.cs",
+              "ToolTip": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\Scripts\\CustomInputManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CustomInputManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:50:02.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\Github\\Unity\\Lw1_GP\\Assignement1\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T20:43:59.073Z"
             }
           ]
         }

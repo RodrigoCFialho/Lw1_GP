@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TileChange : MonoBehaviour
+public class GroundTile : MonoBehaviour
 {
     private SpriteRenderer mySpriteRenderer;
 
@@ -21,7 +21,11 @@ public class TileChange : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            mySpriteRenderer.sprite = spriteVisited;
+            if (mySpriteRenderer.sprite == initialSprite)
+            {
+                mySpriteRenderer.sprite = spriteVisited;
+                GameManager.Instance.AddScore(1f);
+            }
         }
     }
 }

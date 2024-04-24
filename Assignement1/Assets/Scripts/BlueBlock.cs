@@ -34,11 +34,12 @@ public class BlueBlock : MonoBehaviour, IInteractable
     {
         if(other.CompareTag("Player"))
         {
-            other.GetComponent<PlayerInteract>().SetInteractible(null);
+            other.GetComponent<PlayerInteract>().RemoveInteractible(this);
 
             mySpriteRenderer.sprite = initialSprite;
         }
     }
+
     public void Interact()
     {
         myAnimator.enabled = true;

@@ -11,10 +11,10 @@ GameObject:
   - component: {fileID: 4971416483207273848}
   - component: {fileID: 8188508692170621805}
   - component: {fileID: 6516191859847384517}
-  - component: {fileID: -3917652159162399455}
+  - component: {fileID: -5420851116042662390}
   - component: {fileID: 4324793690830436495}
   - component: {fileID: 7929365963915532348}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: BlueBlock
   m_TagString: Block
   m_Icon: {fileID: 0}
@@ -133,7 +133,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!58 &-3917652159162399455
+--- !u!58 &-5420851116042662390
 CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -167,7 +167,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 0.8
+  m_Radius: 1
 --- !u!114 &4324793690830436495
 MonoBehaviour:
   m_ObjectHideFlags: 0

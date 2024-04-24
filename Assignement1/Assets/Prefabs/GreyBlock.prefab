@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5602758140221878332}
   - component: {fileID: 414968732443843353}
   - component: {fileID: 6978480057053505116}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: GreyBlock
   m_TagString: Block
   m_Icon: {fileID: 0}
@@ -180,3 +180,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spriteInteractable: {fileID: 266782774, guid: 75c544911f85a2a4e89d81e8973a8dc3, type: 3}
+  groundTiles: []

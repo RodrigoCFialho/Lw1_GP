@@ -13,7 +13,7 @@ public class GreyBlock : MonoBehaviour, IInteractable
     private Sprite spriteInteractable;
 
     [SerializeField]
-    private GameObject[] groundTiles;
+    private List<GameObject> groundTilesList = new List<GameObject>();
 
     private void Awake()
     {
@@ -32,7 +32,7 @@ public class GreyBlock : MonoBehaviour, IInteractable
 
         if (other.CompareTag("Ground Tile"))
         {
-
+            groundTilesList.Add(other.gameObject);
         }
     }
 
@@ -40,15 +40,14 @@ public class GreyBlock : MonoBehaviour, IInteractable
     {
         if (other.CompareTag("Player"))
         {
-            other.GetComponent<PlayerInteract>().SetInteractible(null);
+            other.GetComponent<PlayerInteract>().RemoveInteractible(this);
 
             mySpriteRenderer.sprite = initialSprite;
         }
     }
+
     public void Interact()
     {
         throw new System.NotImplementedException();
     }
-
-   
 }
