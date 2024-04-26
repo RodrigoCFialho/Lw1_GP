@@ -2,7 +2,6 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.InputSystem;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -31,6 +30,5 @@ public class PlayerMovement : MonoBehaviour
     {
         myAnimator.SetFloat("VelocityX", myRigidBody.velocity.x);
         myAnimator.SetFloat("VelocityY", myRigidBody.velocity.y);
-
     }
 }
