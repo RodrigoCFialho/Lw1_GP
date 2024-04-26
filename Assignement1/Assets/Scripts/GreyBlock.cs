@@ -13,7 +13,7 @@ public class GreyBlock : MonoBehaviour, IInteractable
     private Sprite spriteInteractable;
 
     [SerializeField]
-    private List<GameObject> groundTilesList = new List<GameObject>();
+    private List<GroundTile> groundTilesList = new List<GroundTile>();
 
     private void Awake()
     {
@@ -32,7 +32,9 @@ public class GreyBlock : MonoBehaviour, IInteractable
 
         if (other.CompareTag("Ground Tile"))
         {
-            groundTilesList.Add(other.gameObject);
+            groundTilesList.Add(other.gameObject.GetComponent<GroundTile>());
+
+            print("yes");
         }
     }
 
@@ -48,6 +50,11 @@ public class GreyBlock : MonoBehaviour, IInteractable
 
     public void Interact()
     {
-        throw new System.NotImplementedException();
+        print(groundTilesList.Count);
+
+        for (int i = 0; i < groundTilesList.Count; ++i)
+        {
+            groundTilesList[i].ToggleState();
+        }
     }
 }

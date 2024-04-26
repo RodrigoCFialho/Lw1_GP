@@ -24,8 +24,21 @@ public class GroundTile : MonoBehaviour
             if (mySpriteRenderer.sprite == initialSprite)
             {
                 mySpriteRenderer.sprite = spriteVisited;
+
                 GameManager.Instance.AddScore(1f);
             }
+        }
+    }
+
+    public void ToggleState()
+    {
+        if (mySpriteRenderer.sprite == initialSprite)
+        {
+            mySpriteRenderer.sprite = spriteVisited;
+        }
+        else
+        {
+            mySpriteRenderer.sprite = initialSprite;
         }
     }
 }
