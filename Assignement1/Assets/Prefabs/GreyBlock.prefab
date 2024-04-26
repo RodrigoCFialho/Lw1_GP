@@ -180,4 +180,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spriteInteractable: {fileID: 266782774, guid: 75c544911f85a2a4e89d81e8973a8dc3, type: 3}
-  groundTiles: []
+  checkRadius: 1
+  groundTilesLayer:
+    serializedVersion: 2
+    m_Bits: 64

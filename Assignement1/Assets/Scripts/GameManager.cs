@@ -40,7 +40,7 @@ public class GameManager : MonoBehaviour
 
     public void AddScore(float greenBlockValue)
     {
-        score = score - greenBlockValue;
+        score = score + greenBlockValue;
 
         UpdateScore();
     }

@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 public class GreyBlock : MonoBehaviour, IInteractable
@@ -12,13 +13,23 @@ public class GreyBlock : MonoBehaviour, IInteractable
     [SerializeField]
     private Sprite spriteInteractable;
 
+    private Collider2D[] collidersInRange;
+
     [SerializeField]
-    private List<GroundTile> groundTilesList = new List<GroundTile>();
+    private float checkRadius = 1.5f;
+
+    [SerializeField]
+    private LayerMask groundTilesLayer;
 
     private void Awake()
     {
         mySpriteRenderer = GetComponent<SpriteRenderer>();
         initialSprite = mySpriteRenderer.sprite;
+    }
+
+    private void Start()
+    {
+        collidersInRange = Physics2D.OverlapCircleAll(transform.position, checkRadius, groundTilesLayer);
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -28,13 +39,6 @@ public class GreyBlock : MonoBehaviour, IInteractable
             other.GetComponent<PlayerInteract>().SetInteractible(this);
 
             mySpriteRenderer.sprite = spriteInteractable;
-        }
-
-        if (other.CompareTag("Ground Tile"))
-        {
-            groundTilesList.Add(other.gameObject.GetComponent<GroundTile>());
-
-            print("yes");
         }
     }
 
@@ -50,11 +54,10 @@ public class GreyBlock : MonoBehaviour, IInteractable
 
     public void Interact()
     {
-        print(groundTilesList.Count);
-
-        for (int i = 0; i < groundTilesList.Count; ++i)
+        for (int i = 0; i < collidersInRange.Length; ++i)
         {
-            groundTilesList[i].ToggleState();
+            collidersInRange[i].gameObject.GetComponent<GroundTile>().ToggleState();
         }
     }
+
 }

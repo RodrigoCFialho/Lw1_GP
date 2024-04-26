@@ -21,12 +21,10 @@ public class PlayerInteract : MonoBehaviour
     public void SetInteractible(IInteractable interactableObject)
     {
         interactableList.Add(interactableObject);
-        print(interactableList.Count);
     }
 
     public void RemoveInteractible(IInteractable interactableObject)
     {
         interactableList.Remove(interactableObject);
-        print(interactableList.Count);
     }
 }

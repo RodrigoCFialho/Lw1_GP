@@ -25,7 +25,7 @@ public class GroundTile : MonoBehaviour
             {
                 mySpriteRenderer.sprite = spriteVisited;
 
-                GameManager.Instance.AddScore(1f);
+                GameManager.Instance.AddScore(-1f);
             }
         }
     }
@@ -35,10 +35,12 @@ public class GroundTile : MonoBehaviour
         if (mySpriteRenderer.sprite == initialSprite)
         {
             mySpriteRenderer.sprite = spriteVisited;
+            GameManager.Instance.AddScore(-1f);
         }
         else
         {
             mySpriteRenderer.sprite = initialSprite;
+            GameManager.Instance.AddScore(1f);
         }
     }
 }

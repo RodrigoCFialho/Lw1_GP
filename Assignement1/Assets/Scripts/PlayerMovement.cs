@@ -7,6 +7,7 @@ using UnityEngine.InputSystem;
 public class PlayerMovement : MonoBehaviour
 {
     private Rigidbody2D myRigidBody;
+    private Animator myAnimator;
 
     [SerializeField]
     private float speed = 3f;
@@ -14,6 +15,7 @@ public class PlayerMovement : MonoBehaviour
     private void Awake()
     {
         myRigidBody = GetComponent<Rigidbody2D>();
+        myAnimator = GetComponent<Animator>();
     }
 
     public void EnableMovementEvent(Vector2 moveInput)
@@ -22,7 +24,13 @@ public class PlayerMovement : MonoBehaviour
         {
             myRigidBody.velocity = moveInput * speed;
         }
+        SetMovementOnAnimator();
     }
 
+    private void SetMovementOnAnimator()
+    {
+        myAnimator.SetFloat("VelocityX", myRigidBody.velocity.x);
+        myAnimator.SetFloat("VelocityY", myRigidBody.velocity.y);
 
+    }
 }

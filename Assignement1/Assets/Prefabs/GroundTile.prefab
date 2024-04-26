@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7611691533789258876}
   - component: {fileID: 1333245680506339435}
   - component: {fileID: 3423683690763016569}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: GroundTile
   m_TagString: Ground Tile
   m_Icon: {fileID: 0}
